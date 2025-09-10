@@ -8,3 +8,5 @@
 #Gabriella: Validações + Filmes
 
 /*---------------------------------------------------------------------------- */
+
+#Caso a pasta não funcione baixar o zip
